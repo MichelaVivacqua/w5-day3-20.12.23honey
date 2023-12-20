@@ -1,0 +1,28 @@
+nav {
+  background-color: beige;
+  width: 500px;
+  padding: 5px;
+  border-radius: 30px;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+}
+
+li {
+  background-color: #f3df85;
+  border-radius: 30px;
+  color: #612406;
+  padding: 0 0 10px 10px;
+  display: flex;
+}
+
+li img {
+  width: 30px;
+}
+
+#ape {
+  align-self: stretch;
+}
